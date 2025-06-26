@@ -38,12 +38,6 @@
     display: block;
   }
 
-    body {
-        background-color: #b2ac88;
-    }
-
-    #selfie {
-      background-image: url('Desktop/IMG_1734.jpeg'); /* Replace with the actual image path */
-      background-repeat: no-repeat; /* Optional */
-      background-size: cover; /* Optional */
-    }
+  body {
+    background-color: #b2ac88;
+  }

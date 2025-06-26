@@ -43,10 +43,7 @@
     }
 
     #selfie {
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      padding: 5px;
-      width: 150px;
+      background-image: url('Desktop/IMG_1734.jpeg'); /* Replace with the actual image path */
+      background-repeat: no-repeat; /* Optional */
+      background-size: cover; /* Optional */
     }
-
-    <selfie src="IMG_1734.jpeg" alt="Dan">

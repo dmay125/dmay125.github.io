@@ -37,3 +37,16 @@
   section.active {
     display: block;
   }
+
+    body {
+        background-color: #b2ac88;
+    }
+
+    #selfie {
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 5px;
+      width: 150px;
+    }
+
+    <selfie src="IMG_1734.jpeg" alt="Dan">
